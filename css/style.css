@@ -414,10 +414,10 @@ a:hover{
 	color:#333b46;
 }
 .head_title p{
-	color: #81868e;
+	color: #404246;
     font-family: 'OpenSans';
     font-weight: 300;
-    max-width: 42%;
+    max-width: 70%;
     margin: 0 auto;
     line-height: 25px;
 }
@@ -630,17 +630,16 @@ a:hover{
 }
 
 .single_service_area{
-    background: url(../images/service1.jpg) no-repeat left top;
-    height: 337px;
-    margin-top: 50px;
+    height: 350px;
+    margin-top: 5px;
 }
 .single_service_area_two{
-	background: url(../images/service2.jpg) no-repeat right top;
-    height: 337px;
+    height: 800px;
+	margin-top: 30px;
 }
 .single_service_area_three{
-    background: url(../images/service3.jpg) no-repeat left top;
-    height: 337px;	
+    background: url(../images/service2.jpg) no-repeat left top;
+    height: 400px;	
 }
 
 .single_service{
@@ -659,8 +658,8 @@ a:hover{
 	max-width:70%;
 }
 .single_service p.service_P{
-    max-width: 70%;
-    margin-left: 30%;
+    max-width: 50%;
+    margin-left: 20%;
 	
 }
 
